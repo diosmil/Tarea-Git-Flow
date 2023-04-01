@@ -13,3 +13,34 @@ function addNumber(number) {
     }
 }
 
+function addOperator(op) {
+    operator = op;
+}
+
+function calculate() {
+    switch (operator) {
+        case "+":
+            result = parseFloat(operand1) + parseFloat(operand2);
+            break;
+        case "-":
+            result = parseFloat(operand1) - parseFloat(operand2);
+            break;
+        case "*":
+            result = parseFloat(operand1) * parseFloat(operand2);
+            break;
+        case "/":
+            result = parseFloat(operand1) / parseFloat(operand2);
+            break;
+        default:
+            break;
+    }
+    document.getElementById("result").value = result;
+}
+
+function clearScreen() {
+    operand1 = "";
+    operand2 = "";
+    operator = "";
+    result = "";
+    document.getElementById("result").value = "";
+}

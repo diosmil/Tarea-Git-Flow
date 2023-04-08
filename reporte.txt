@@ -1,0 +1,14 @@
+Reporte de la Prueba Automatizada
+
+Capturas de pantalla tomadas:
+--------------------------------------------------
+1_inicio.png
+	- 2_usuario.png
+	- 3_contrasena.png
+	- 4_inicio_sesion_cargando.png
+	- 5_inicio_sesion.png
+	- 6_Dentro_de_la_pagina.png
+	- 7_Cerrando_sesion.png
+
+--------------------------------------------------
+La prueba se completó con éxito.

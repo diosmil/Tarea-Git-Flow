@@ -1,0 +1,6 @@
+Reporte de Errores de la Prueba Automatizada
+
+--------------------------------------------------
+No se encontraron errores.
+
+--------------------------------------------------

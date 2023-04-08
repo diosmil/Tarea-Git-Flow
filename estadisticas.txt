@@ -1,0 +1,9 @@
+Reporte de Estadísticas de la Prueba Automatizada
+
+--------------------------------------------------
+Total de pruebas realizadas: 1
+Total de pruebas exitosas: 1
+Total de pruebas fallidas: 0
+
+
+--------------------------------------------------
